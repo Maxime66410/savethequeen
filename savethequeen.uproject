@@ -22,6 +22,10 @@
 			"Name": "ShaderOptimizationTool",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/513a79316d754c5881f90cf8053e3a4e"
+		},
+		{
+			"Name": "GamepadUMGPlugin",
+			"Enabled": true
 		}
 	]
 }
